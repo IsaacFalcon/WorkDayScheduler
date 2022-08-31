@@ -20,7 +20,7 @@
 
 ## Usage
 
-Link: 
+Link: https://isaacfalcon.github.io/WorkDayScheduler/ 
 
 ![alt Website Screenshot](assets/images/workddayschedulerpreview.JPG)
 
